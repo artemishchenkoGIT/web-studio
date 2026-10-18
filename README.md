@@ -10,7 +10,7 @@ A modern, responsive landing page for a web development studio. The website is b
 ## 🔗 Quick Links
 
 - 🌐 **Live Demo:** [WebStudio Website](https://artemishchenkogit.github.io/web-studio/)
-- 🎨 **Figma Design Layout:** [Figma Design Template](https://www.figma.com/design/1NQE6vjOSpKc8FzDTl7HLw/Organic-shop--Copy-?node-id=5999-10563&p=f&t=7718K79MTTchJsJM-0)
+- 🎨 **Figma Design Layout:** [Figma Design Template](https://www.figma.com/design/xooa89c2NJH2Fv90cxJV3M/Web-Studio--Version-5.1---Copy-?node-id=297046-1554&p=f&t=w9vhQWhvFDkYdbDM-0)
 
 ---
 
